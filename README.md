@@ -30,8 +30,4 @@ I also conducted a similar analysis to identify the three customers with the few
 
 I used subqueries to add a ranking with the ROW_NUMBER function, which can be filtered using the WHERE clause for more targeted analysis when performing research.
 
- 
 
-- 
-- Simple Aggregations
-- Subquery
